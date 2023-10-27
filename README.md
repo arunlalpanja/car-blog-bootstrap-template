@@ -1,2 +1,2 @@
-# car-blog-bootstrap-template
+# Car Blog - Bootstrap Template
 Car Blog Bootstrap Template
